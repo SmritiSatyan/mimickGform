@@ -15,7 +15,7 @@ fieldsMandatory <- c("name", "qual", "lang")
 #ValidationfieldsMandatory <- c("name", "qual", "lang")
 
 fieldsAll <- c("name", "qual", "gender", "lang")
-responsesDir <- file.path("C:\\Users\\BPO18\\responses")
+responsesDir <- file.path("...responses")
 epochTime <- function() {
   as.integer(Sys.time())
 }
