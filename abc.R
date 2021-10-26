@@ -5,7 +5,7 @@ library(dplyr)
 library(ggplot2)
 library(plotly)
 
-mydata1 = read.csv("C:\\Users\\BPO18\\Documents\\Book1.csv")
+mydata1 = read.csv("path to ccsv")
 
 ui <- fluidPage(
   titlePanel("Hello User"),
